@@ -32,6 +32,7 @@ body{
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
     text-align: center;
+    color: white;
 
 }
 
@@ -44,6 +45,7 @@ body{
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     text-align: center;
+    color: white;
 }
 
 .estilo-3{
